@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update CI.md with CI links (#8786)
