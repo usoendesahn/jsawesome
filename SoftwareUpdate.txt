@@ -1,1 +1,1 @@
-ultralytics 8.1.33 fix HUB model checks (#9153)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
