@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
