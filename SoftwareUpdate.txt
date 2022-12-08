@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Fix OpenVINO missing batch-size bug (#9264)
