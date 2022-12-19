@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+docs: update view-results-in-terminal.md (#66)
