@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+Replace onnx2tf usage from CLI to Python (#8429)
