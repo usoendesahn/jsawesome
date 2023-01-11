@@ -1,1 +1,1 @@
-Bounding Box to OBB conversion (#7572)
+Update the heatmap module code + docs (#7045)
