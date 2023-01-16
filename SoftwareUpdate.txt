@@ -1,1 +1,1 @@
-Add simple-utilities.md Docs page (#8269)
+Update the heatmap module code + docs (#7045)
