@@ -1,1 +1,1 @@
-Add NCNN Docs Integrations Page (#8562)
+ultralytics 8.1.30 add advanced HUB train arguments (#9110)
