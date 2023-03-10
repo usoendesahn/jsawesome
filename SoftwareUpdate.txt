@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
