@@ -1,1 +1,1 @@
-fix val each epoch
+Optimize function calls to method calls (#8507)
