@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
