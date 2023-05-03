@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Fix PNNX ubuntu -> linux bug (#7050)
