@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add HUB-SDK docs (#7775)
