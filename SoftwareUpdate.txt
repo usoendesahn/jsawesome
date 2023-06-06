@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
