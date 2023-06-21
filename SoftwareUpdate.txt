@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+ultralytics 8.1.15 add Python 3.12 compatibility (#8210)
