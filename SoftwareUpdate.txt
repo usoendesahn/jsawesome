@@ -1,1 +1,1 @@
-ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
+Allow Annotator PIL.Image inputs (#8397)
