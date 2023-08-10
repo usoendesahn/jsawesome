@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+More robust PNNX downloads (#8866)
