@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+ultralytics 8.1.7 USER_CONFIG_DIR Explorer ops (#7861)
