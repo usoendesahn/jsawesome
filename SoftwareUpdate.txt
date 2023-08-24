@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
