@@ -1,1 +1,1 @@
-Object Counter improvements (#8648)
+Auto-format by https://ultralytics.com/actions
