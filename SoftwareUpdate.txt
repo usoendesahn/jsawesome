@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+* fix for predicting with batch_size > 1
