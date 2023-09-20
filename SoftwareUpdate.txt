@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Expand Model method type hinting (#8279)
