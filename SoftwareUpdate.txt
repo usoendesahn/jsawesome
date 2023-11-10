@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Compare plt.get_backend() in lowercase (#8409)
