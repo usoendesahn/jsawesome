@@ -1,1 +1,1 @@
-Update README.md
+docs: update view-results-in-terminal.md (#66)
