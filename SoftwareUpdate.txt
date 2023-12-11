@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
