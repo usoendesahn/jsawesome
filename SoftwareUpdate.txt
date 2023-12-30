@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
