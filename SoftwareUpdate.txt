@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add plot_images conf_thresh parameter (#8446)
