@@ -1,1 +1,1 @@
-ultralytics 8.0.230 TensorRT export hang fix (#7180)
+ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
