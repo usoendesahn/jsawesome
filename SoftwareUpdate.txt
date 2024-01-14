@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
