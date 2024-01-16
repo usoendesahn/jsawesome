@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
