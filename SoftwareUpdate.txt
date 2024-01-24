@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Updated SQL Query Plot Code (#8120)
