@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Fix ONNX GPU inference bug (#6840)
