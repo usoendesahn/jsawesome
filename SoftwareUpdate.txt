@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
