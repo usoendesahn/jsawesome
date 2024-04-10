@@ -1,1 +1,1 @@
-Add https://youtu.be/q7LwPoM7tSQ to guides/yolo-performance-metrics.md (#8114)
+Update Colab notebook for YOLOv8.1 (#8660)
